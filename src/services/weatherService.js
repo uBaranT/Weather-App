@@ -2,9 +2,9 @@
 
 import { DateTime } from "luxon";
 
-const API_KEY = 'efc2c500a6334602d825387129529856'; // enter your api-key
+const API_KEY = ''; // enter your api-key
 //const BASE_URL = 'https://api.openweathermap.org/data/2.5';
-const BASE_URL = 'https://api.openweathermap.org/data/2.5/weather?q={name}&appid={API_KEY}';
+const BASE_URL = ''; // https://api.openweathermap.org/data/2.5/weather?q={name}&appid={API_KEY}
 //const BASE_URL= 'https://api.openweathermap.org/data/3.0/onecall?q=Istanbul&exclude=current,daily,hourly&appid={API_KEY}'
 // https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 
